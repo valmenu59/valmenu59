@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">
+  <b><👋, HELLO WORLD /></b>
+</h1>
+
+<h3 align="center">Je suis Valentin Menu, un français de 25 ans 🇫🇷 Etudiant en BUT Informatique, intéressé par le développement logiciel, web et mobile. J'aime également le déploiement d'applications 🖥️</h3>
+<h3 align="center">I am Valentin Menu, a 25 yo french 🇫🇷 "BUT Informatique" (computer science) student, interested by software, web and mobile development. I also like application deployment 🖥️</h3>
 
 <!--
 **valmenu59/valmenu59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
